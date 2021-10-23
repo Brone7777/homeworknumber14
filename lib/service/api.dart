@@ -31,7 +31,7 @@ class Api {
         throw apiResult.message!;
       }
     } else {
-      throw 'Server connection failed!';
+      throw 'Server connection failed!!!!!';
     }
   }
 }
